@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bajo mesada, alacena e isla",
+    "descripcion": "Conjunto completo con isla central y gran capacidad de guardado.",
+    "precio": 180000,
+    "imagen": "./IMG/1.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Bajo mesada, alacena y especiero",
+    "descripcion": "Incluye especiero lateral y terminaciones en blanco brillante.",
+    "precio": 180000,
+    "imagen": "./IMG/2.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Bajo mesada en 'U'",
+    "descripcion": "Diseño en U para aprovechar al máximo el espacio de tu cocina.",
+    "precio": 180000,
+    "imagen": "./IMG/9.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Bajo mesada, alacena y especiero blanco",
+    "descripcion": "Estilo moderno en blanco con especiero integrado.",
+    "precio": 180000,
+    "imagen": "./IMG/4.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Bajo mesada en L y alacena simple",
+    "descripcion": "Solución práctica para cocinas medianas y pequeñas.",
+    "precio": 180000,
+    "imagen": "./IMG/5.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Bajo mesada simple",
+    "descripcion": "Ideal para espacios reducidos, diseño funcional.",
+    "precio": 180000,
+    "imagen": "./IMG/6.jpg"
+  }
+]
+
