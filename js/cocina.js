@@ -7,7 +7,7 @@ export function renderCocina() {
     <div class="row row-cols-1 row-cols-md-3 g-4 card_container mt-2"></div>
   `;
 
-  fetch('./Js/data/cocina.json')
+  fetch('./js/data/cocina.json')
     .then(res => res.json())
     .then(productos => {
       const contenedor = document.querySelector('.card_container');
