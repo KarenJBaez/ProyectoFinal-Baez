@@ -21,8 +21,8 @@ export function renderCocina() {
             <div class="card-body d-flex flex-column">
               <h5 class="card-title">${producto.nombre}</h5>
               <p class="card-text">${producto.descripcion}</p>
-              <p class="fw-bold mt-auto">$${producto.precio}</p>
-              <button class="btn btn-primary agregar-carrito">Agregar al carrito</button>
+              <p class="fw-bold mt-auto mb-2">$${producto.precio}</p>
+              <button type="button" class="btn btn-primary agregar-carrito btn-agregar-carrito w-100">Agregar al carrito</button>
             </div>
           </div>
         `;
